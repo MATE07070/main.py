@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>LA GRANJA DE PEPE</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1 class="h1">¡LA GRANDIOSA TIENDA DE PEPE! </h1>
+    <P>esta tienda fue fundada por mi tatara abuelo</P>
+    <h2>PRODUCTOS</h2>
+    <ul style="list-style-position:inside ;padding: 0;">
+        <li>Marraqueta: $12 chilenos</li>
+        <li>Caracol: $3 soles</li>
+        <li>Caramandugas: $ 7soles</li>
+        <li>Cachitosl: $4 soles</li>
+    </ul>
+    <img src="https://www.comedera.com/wp-content/uploads/2022/06/Pan-dulce-shutterstock_625558166.jpg" alt="estos son los productos:" class="small-image">
+
+</body>
+</html>
+body{
+    background-color: rgb(237, 118, 0);
+    font-size: Arial, sans-serif;
+    font-size: 20px ;
+    color: rgb(237, 32, 0);
+    text-align: center;
+}
+.small-image{
+    width: 275px;
+    height: auto;
+    display: block;
+    margin: 5px;
+    border: 5px solid black;
+}
