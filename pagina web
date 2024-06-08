@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>LA GRANJA DE PEPE</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1 class="h1">¡LA GRANDIOSA TIENDA DE PEPE! </h1>
+    <P>esta tienda fue fundada por mi tatara abuelo</P>
+    <h2>PRODUCTOS</h2>
+    <ul style="list-style-position:inside ;padding: 0;">
+        <li>Marraqueta: $12 chilenos</li>
+        <li>Caracol: $3 soles</li>
+        <li>Caramandugas: $ 7soles</li>
+        <li>Cachitosl: $4 soles</li>
+    </ul>
+</body>
